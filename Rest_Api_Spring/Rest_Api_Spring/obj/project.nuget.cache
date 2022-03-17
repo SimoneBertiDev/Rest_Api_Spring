@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5mJGbgCHu7gX166DgctVRf3YfSb3caFysBSoAGsH4bNM0NCnddEUabw6WsI5OGlqkDP5uTloe3kmOMiXvrTlw==",
+  "success": true,
+  "projectFilePath": "C:\\_GIT\\_NET\\Rest_Api_Spring\\Rest_Api_Spring\\Rest_Api_Spring\\Rest_Api_Spring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simob\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Simob\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}

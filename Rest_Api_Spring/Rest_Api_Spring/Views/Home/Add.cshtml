@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form method="post" asp-action="AddUser">
+        <div class="form-group">
+            <label>CF</label>
+            <input name="codiceFiscale" type="text" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <div class="form-group">
+            <label>eta</label>
+            <input name="eta" type="number" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <div class="form-group">
+            <label>Nome</label>
+            <input name="nameFirst" type="text" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <div class="form-group">
+            <label>Cognome</label>
+            <input name="lastName" type="text" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <div class="form-group">
+            <label>Data abbonamento</label>
+            <input name="startDate" type="date" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <div class="form-group">
+            <label>Tipo Abobnamento</label>
+            <input name="userType" type="text" class="form-control" aria-describedby="Codice fiscale">
+        </div>
+        <input type="submit" value="Submit">
+    </form>
